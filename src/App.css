@@ -1,7 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
+* {
+  font-family: "Poppins", sans-serif;
+}
+.contentup {
+  background-image: linear-gradient(
+    to right bottom,
+    #0e1e1e,
+    #0f1e1e,
+    #0f1e1e,
+    #101d1d,
+    #101d1d,
+    #101c1c,
+    #111b1b,
+    #111a1a,
+    #111919,
+    #121717,
+    #121616,
+    #121414
+  );
+}
+.bottomgradient {
+  background-image: linear-gradient(
+    to bottom,
+    #0e1e1e,
+    #0f1e1e,
+    #0f1e1e,
+    #101d1d,
+    #101d1d,
+    #101c1c,
+    #111b1b,
+    #111a1a,
+    #111919,
+    #121717,
+    #121616,
+    #121414
+  );
+}
+.siderheight {
+  height: 90%;
+}
 .App {
   text-align: center;
 }
-
+.hovereffect {
+  transition: 0.3s ease-in-out;
+}
+.gradientbg {
+  background: linear-gradient(135deg, #450af5, #c4efd9);
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
