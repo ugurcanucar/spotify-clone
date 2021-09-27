@@ -24,7 +24,9 @@ Project starts with 3000 port of localhost. ([http://localhost:3000])
 You can contact me from instagram , linkedin or facebook.
 
 Instagram : [www.instagram.com/ugurcannucar]
+
 Linkedin : [www.linkedin.com/ugurcanucar]
+
 Facebook : [www.facebook.com/ugurcan.ucar.3]
 
 I can speak turkish and english. If you dont know both of them i can try help with translator too! So dont be shy to contact with me :)
